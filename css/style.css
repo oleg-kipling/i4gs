@@ -3,6 +3,7 @@
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-rendering: geometricPrecision;
+    -webkit-font-smoothing: antialiased;
 }
 
 .slider-button {
