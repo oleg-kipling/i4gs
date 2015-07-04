@@ -374,3 +374,7 @@ float: right;
 .left-padding-more {
     padding-left: 35px;
 }
+
+.image-resize {
+    width: 750px;
+}
